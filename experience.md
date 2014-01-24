@@ -18,6 +18,7 @@ Responsibilities:
  - To overlook the installation of, and to find new, special and general software applications, that can increase efficiency in the workplace.  
   
   
+  
 **Website Builder & Designer, May 2012 - August 2012**  
 Alfaris International Travel & Tourism Agency - [www.alfaristours.com](www.alfaristours.com)  
 Jeddah, Saudi Arabia  
@@ -27,6 +28,7 @@ Responsibilities:
  - Communicate regularly with the client  
  - Design a colourful template that suits the client's logos  
  - Build online web forms for customers to contact client's travel agency and request bookings  
+  
   
   
 **Web Systems Developer, October 2012 – June 2013**  
@@ -40,12 +42,14 @@ Responsibilities:
 Progress of the system was regularly uploaded on http://deltaone.somee.com. Unfortunately, the website is no longer in use by the company, but the system is available for upload on request.  
   
   
+  
 **Logo Designer, June 2012**  
 Modern Electron Trading  
 Jeddah, Saudi Arabia  
   
 Responsibilities:  
  - Design a logo that meets the brand new electronics trading company’s requirements. ([the logo can be found here](https://www.dropbox.com/s/zfy4cikmuiqf3xr/elektron.jpg))  
+  
   
   
 **IT Support Engineer, September 2010 - May 2012**  
@@ -57,25 +61,30 @@ Responsibilities:
 - Find suitable ways to improve network efficiency and communications between employees' computers, and between employees and their clients   
 - Fix any issue or problem an employee faces on his/her computer, or answer any computer/network related questions asked by employees   
   
-
-## Skills
-###### (Levels of skill, respectively: Basic, Intermediate, Advanced)  
-    
- Visual Basic.NET for web development   				Intermediate  
- HTML							    					Intermediate  
- CSS       												Basic  
- SQL for data-storage and data-manipulation  			Intermediate  
- JavaScript       										Basic  
- Ruby on Rails       									Basic  
- Python       											Basic  
- Java													Basic  
- Microsoft Office 2007 (incl. Publisher & Access)  		Intermediate  
- Software Project Management    						Intermediate  
- Adobe Photoshop     									Intermediate   
   
-
-## Education
-</br>  
+  
+## Skills  
+    
+Basic skills in:
+ - HTML
+ - CSS
+ - Ruby on Rails
+ - Python
+ - Java
+  
+Experienced in: 
+ - Visual Basic.NET for web development
+ - Microsoft Office 2007+ (incl. Publisher & Access)
+ - Adobe Photoshop for Design
+ - Software Project Management
+  
+Awesome at: 
+ - SQL for data-storage and manipulation
+  
+  
+  
+## Education  
+  
  American High School Diploma, September 2008 – June 2012   
  *The American International School of Jeddah*   
  *Jeddah, Saudi Arabia*   
@@ -102,7 +111,8 @@ Responsibilities:
  *London, UK*  
  First Year (Currently Reading)   
   
-
+  
+  
 ## Extra-Curricular Experience  
 First Year Representative of [King’s College London Computing Society](http://kclcs.com)  
 King’s College London, January 2014 – present   
