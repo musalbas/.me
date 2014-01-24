@@ -1,4 +1,4 @@
-# Lagom
+# Lagom is a Jekyll theme.
 
 > #### *Lagom* is a Swedish word with no direct English equivalent, meaning "just the right amount"
 
