@@ -1,0 +1,6 @@
+pygments: true
+permalink: /post/:title
+exclude: ['Gemfile','Gemfile.lock','Rakefile','.git']
+paginate: 4
+host: 127.0.0.1
+port: 9082
