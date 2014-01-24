@@ -78,7 +78,7 @@ Experienced in:
  - Adobe Photoshop for Design
  - Software Project Management
   
-Awesome at: 
+Awesome at:  
  - SQL for data-storage and manipulation
   
   
