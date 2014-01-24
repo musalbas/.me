@@ -3,6 +3,8 @@ pygments: true
 url: http://faresalaboud.me
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
+host: 127.0.0.1
+port: 9082
 
 # Theme customization - please change from the defaults!
 theme:
