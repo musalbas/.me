@@ -3,15 +3,15 @@ layout: post
 title: Who am I?
 ---
 
-My name is Fares Alaboud. I'm a first-year computer science student at King's College London. 
+My name is Fares Alaboud. I'm a first-year computer science student at King's College London.
 
 The list of things I enjoy include:
 
 **reading** <br/>
-As long as the book I'm reading is not on my course syllabus.  
+As long as the book I'm reading is not on my course syllabus.
 <br/>
 **attending the theatre** <br/>
-I've attended Mamma Mia and Wicked. I've enjoyed both, very greatly, but unfortunately never get the opportunity to.  
+I've attended Mamma Mia and Wicked. I've enjoyed both, very greatly, but unfortunately never get the opportunity to.
 <br/>
 **baking** <br/>
 I'm even part of [my university's backing society](https://www.facebook.com/KCLBakingSoc). I bake all kinds of desserts: from cookies to cheesecakes. My specialties are brownies.
