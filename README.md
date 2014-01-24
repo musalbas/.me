@@ -1,41 +1,32 @@
-Herring Cove
-============
+#Exemplar
 
-Herring Cove is a clean and responsive theme for Jekyll. 
+This is my jekyll site template. Used for blog and project pages.
 
+#Getting Started
 
-### Overview 
+First, make sure you have the `jekyll` and `sass` gems installed. In your terminal run:
 
-* Fixed Sidebar with social links
-* Minimal design 
-* Comments by Disqus
-* Social Sharing abilities 
-* Easy to configure
-* Based on Bootstrap
+    gem install jekyll
+    gem install sass
 
-### Screenshots
+You can optionally install the *bourbon* gem in order to update the Bourbon folder:
 
-![screenshot](/images/screenshot1.png)
-![screenshot](/images/screenshot2.png)
+    gem install bourbon
+    cd _sass
+    bourbon install
 
-### Setup
+Start running Jekyll (defaults to port 4000) and watching Sass:
 
-1. Install Jekyll
-2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
-3. Edit the `_config.yml` file
+    rake // 'rake watch' also works
 
-You can change the showcase image by replacing `showcase.jpg` file in the `images` folder. I'll try to find a better way to do this soon. 
+Before deploying your site, stop `rake watch` and run `rake generate` to generate a production-ready site (no Scss comments).
 
-### Download
+## Updating Bourbon
 
-[download](https://github.com/arnp/herring-cove/archive/master.zip)
+In order to update the Bourbon folder:
 
-### License
-* [MIT](http://opensource.org/licenses/MIT)
+    cd _sass/
+    bourbon update
+    
 
--------------
-Herring Cove is always a work in progress and as such, I hope to clean up the code and add features as time permits. Feel free to add your own additions. 
-
-*What's with the name?*
-
-[Herring Cove](http://www.capecodbeachchair.com/beachguide/index.cfm?page=3&BeachID=5) is a beach on Cape Cod in Provincetown, Massachusetts. If you're in the area, be sure to check it out!
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tybenz/exemplar/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
