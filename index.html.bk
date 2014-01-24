@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About
+title: Homepage
 ---
 
 <div id="home">
-	<h2><i class="icon-bookmark"></i> Who am I? </h2>
+	<h2><i class="icon-bookmark"></i> Home </h2>
 	<ul id="blog-posts" class="posts">
 		{% for post in site.posts %}
 		<li>
