@@ -3,18 +3,17 @@ layout: post
 title: Experience
 ---
 
-## Work Experience
-<br/>
-<br/>**Systems Administrator, April 2013 – September 2013**
-<br/>Alfaris International Travel & Tourism Agency  [www.alfaristours.com](www.alfaristours.com)
-<br/>Jeddah, Saudi Arabia
-<br/>
-<br/>Responsibilities:
-<br/> To design a brochure that could represent the company’s profile ([the brochure can be found here](https://www.dropbox.com/s/w8c5tvtar9uncgn/Alfaris%20Brochure.pdf)) 
-<br/> To set up, manage and maintain IT resources such as websites, corporate email addresses and customer relationship management systems 
-<br/>  To build a customer-relationship-management (CRM) system for the agency to record its client’s details under their permission for the purpose of re-booking flights or hotel reservations without the need of requesting their details, and also to allow the agency to communicate with their clients by sending newsletters via email 
-<br/>  To coordinate the planning, design and implementation of bespoke software using advanced knowledge of software engineering and programming as well as sophisticated integrated developer environments (IDEs), such as Eclipse and Visual Studio, and other software development tools.
-<br/>  To overlook the installation of, and to find new, special and general software applications, that can increase efficiency in the workplace.
+## Work Experience  
+**Systems Administrator, April 2013 – September 2013**  
+Alfaris International Travel & Tourism Agency  [www.alfaristours.com](www.alfaristours.com)  
+Jeddah, Saudi Arabia  
+  
+Responsibilities:  
+To design a brochure that could represent the company’s profile ([the brochure can be found here](https://www.dropbox.com/s/w8c5tvtar9uncgn/Alfaris%20Brochure.pdf))   
+To set up, manage and maintain IT resources such as websites, corporate email addresses and customer relationship management systems   
+To build a customer-relationship-management (CRM) system for the agency to record its client’s details under their permission for the purpose of re-booking flights or hotel reservations without the need of requesting their details, and also to allow the agency to communicate with their clients by sending newsletters via email   
+To coordinate the planning, design and implementation of bespoke software using advanced knowledge of software engineering and programming as well as sophisticated integrated developer environments (IDEs), such as Eclipse and Visual Studio, and other software development tools.  
+To overlook the installation of, and to find new, special and general software applications, that can increase efficiency in the workplace.  
 <br/>
 <br/>
 <br/>**Website Builder & Designer, May 2012  August 2012**
