@@ -7,7 +7,7 @@ title: Experience
   
   
 **Systems Administrator, April 2013 to September 2013**  
-Alfaris International Travel & Tourism Agency - [www.alfaristours.com](www.alfaristours.com)  
+Alfaris International Travel & Tourism Agency - [www.alfaristours.com](http://alfaristours.com)  
 Jeddah, Saudi Arabia  
   
 Responsibilities:  
@@ -20,7 +20,7 @@ Responsibilities:
   
   
 **Website Builder & Designer, May 2012 to August 2012**  
-Alfaris International Travel & Tourism Agency - [www.alfaristours.com](www.alfaristours.com)  
+Alfaris International Travel & Tourism Agency - [www.alfaristours.com](http://alfaristours.com)  
 Jeddah, Saudi Arabia  
   
 Responsibilities:  
@@ -53,7 +53,7 @@ Responsibilities:
   
   
 **IT Support Engineer, September 2010 to May 2012**  
-Alfaris International Travel & Tourism Agency, [www.alfaristours.com](www.alfaristours.com)  
+Alfaris International Travel & Tourism Agency, [www.alfaristours.com](http://alfaristours.com)  
 Jeddah, Saudi Arabia  
   
 Responsibilities:  
