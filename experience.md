@@ -147,4 +147,4 @@ Jeddah, Saudi Arabia, March 2008 to present
  **Presidents Award for Educational Excellence, June 2012**  
  Awarded by: The United States Secretary of Education   
  (Signed by Arne Duncan, the US Secretary of Education and Barrack Obama, the President of the United States)  
- Details of the eligibility and criteria of this award can be found on: [http://www2.ed.gov/programs/presedaward/eligibility.html](http://www2.ed.gov/programs/presedaward/eligibility.html)  
+ Details of the eligibility and criteria of this award can be found on the [ed.gov website](http://www2.ed.gov/programs/presedaward/eligibility.html).  
