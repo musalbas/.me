@@ -1,13 +1,14 @@
 ---
-layout: default
+layout: post
 title: Links
 ---
 
-<div id="home">
-  <h2><i class="icon-bookmark"></i> Links </h2>
-  <ul id="blog-posts" class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<h2> Links: </h2>  
+  
+**Web Development**
+ - [Codecademy](http://codecademy.com) is a brilliant website that has interactive and fun programming course. [I have my own profile](http://www.codecademy.com/faresalaboud) and I'm currently doing four of its course!
+ - [The New Boston](http://thenewboston.org) has very detailed video tutorials, specifically with Java.
+  
+**News**
+ - [The Verge](http://theverge.com/) is one of my preferred sources of tech related news.
+ - [Softpedia](http://news.softpedia.com/) is my favourite news site. It takes articles from many sources, and has more than just tech news (but is mainly tech related.)

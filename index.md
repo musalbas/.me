@@ -3,8 +3,8 @@ layout: post
 title: Who am I?
 ---
 
-My name is Fares Alaboud. I'm a first-year computer science student at King's College London.
-
+My name is Fares Alaboud. I'm a first-year computer science student at King's College London. I'm active, outgoing, talkative and do my best to be helpful around others. I try to be very involved in my course and around campus. I tend to be found at tech events such as hackathons and talks, lectures or workshops.  
+  
 The list of things I enjoy include:
 
 **Reading** <br/>
