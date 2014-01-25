@@ -107,7 +107,7 @@ Awesome at:
  IELTS Score: 8.0  
    
  Masters in Science (MSci), Computer Science, September 2013 to July 2017  
- *[Kingss College London](http://kcl.ac.uk)*   
+ *[Kings College London](http://kcl.ac.uk)*   
  *London, UK*  
  First Year (Currently Reading)   
   
