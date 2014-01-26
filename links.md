@@ -6,7 +6,7 @@ title: Links
 <h2> Links: </h2>  
   
 **Web Development**
- - [Codecademy](http://codecademy.com) is a brilliant website that has interactive and fun programming course. [I have my own profile](http://www.codecademy.com/faresalaboud) and I'm currently doing four of its course!
+ - [Codecademy](http://codecademy.com) is a brilliant website that has interactive and fun programming course. [I have my own profile](http://www.codecademy.com/faresalaboud) and I'm currently doing four of its courses!
  - [The New Boston](http://thenewboston.org) has very detailed video tutorials, specifically with Java.
   
 **News**
