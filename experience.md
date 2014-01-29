@@ -64,22 +64,32 @@ Responsibilities:
   
   
 ## Skills  
-    
+
 Basic skills in:
  - CSS
- - Ruby on Rails
- - Python
  - Java
-  
-Experienced in: 
+ - iOS Development
+
+Experienced in:
  - Visual Basic.NET for web development
  - Microsoft Office 2007+ (incl. Publisher & Access)
  - Adobe Photoshop for Design
  - Software Project Management
-  
-Awesome at:  
- - SQL for data-storage and manipulation
  - HTML for front-end design
+
+Awesome at:
+ - SQL for data-storage and manipulation
+ - Problem-solving
+
+Currently learning (will be completed by March 2014):
+ - Java
+ - iOS Development
+ - CSS
+ - PHP
+ - Ruby (+ on Rails)
+ - JavaScript
+ - jQuery
+
   
   
   
