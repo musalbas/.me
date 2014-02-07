@@ -1011,6 +1011,10 @@ i.fa-hn {
 	text-align: center;
 }
 
+.disclaimer p img {
+	display:inline !important;
+}
+
 .footnotes {
 	font-size: 14px;
 	font-style: italic;
