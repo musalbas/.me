@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Fares</title>
+ <link href="http://faresalaboud.me//atom.xml" rel="self"/>
+ <link href="http://faresalaboud.me//"/>
+ <updated>2014-02-11T14:05:27+00:00</updated>
+ <id>http://faresalaboud.me/</id>
+ <author>
+   <name>Fares K. Alaboud</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Mishwar to Manchester</title>
+   <link href="http://faresalaboud.me//blog/studenthack"/>
+   <updated>2014-02-09T00:00:00+00:00</updated>
+   <id>http://faresalaboud.me//blog/studenthack</id>
+   <content type="html">&lt;p&gt;I arrived in Manchester at 7:28pm on Friday night after the bumpy ride from London Euston. The trains are just ridiculously fast, and (I don&amp;#39;t know if it&amp;#39;s just me, but) they actually tilt sideways when taking a turn, like a rollercoaster. I got off the train, ran to the queue for a cab and rode to the hotel. The weather is so cold that, even inside the hotel room, I can&amp;#39;t feel my fingers. I know it&amp;#39;s because I&amp;#39;m nervous, it&amp;#39;s my first &lt;a href=&quot;https://medium.com/hackathons-anonymous/92668579601&quot;&gt;hackathon&lt;/a&gt; after all. I slept and waited for the next morning to surprise me. And oh boy it did.&lt;/p&gt;
+
+&lt;p&gt;At around 6am, I woke up without my alarm going off. I know it&amp;#39;s because my blood is fizzing with excitement. I took a shower, got dressed, dressed my best and left the hotel. It felt like I was walking to a merge of an exam and a wedding, where everyone would stare at me and expect me to do my best, where I would be judged on my performance and appearance. When I finally found the venue after around a half hour walk of being lost, I saw a beautiful glass building and thought: &amp;quot;I wish the hackathon was in there&amp;quot;. I thought the building was so pretty that I decided I&amp;#39;ll walk into there, because it had the Manchester Metropolitan University logo on it, and I knew that the university was hosting &lt;a href=&quot;http://studenthack.com&quot;&gt;StudentHack&lt;/a&gt;. I just needed to find out in which of it&amp;#39;s many buildings it was going to be.  &lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

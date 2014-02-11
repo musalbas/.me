@@ -1,0 +1,26 @@
+# Dependencies
+markdown:	redcarpet
+pygments:	true
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Fares
+tagline:	'blog'
+description:	'.'
+url:		http://faresalaboud.me/
+
+author:
+  name:	'Fares K. Alaboud'
+  url:	https://faresalaboud.me
+
+paginate:	6
+
+# Custom vars
+icon: /assets/images/icon.png
+cover: /assets/images/cover.jpg
+version:	1.0.0
+github:
+  repo:	https://github.com/fareskalaboud/me.blog
+copyright: <p class="copyright"> <a href="http://www.youtube.com/watch?v=tk862BbjWx4">Feel free to copy me</a>. <br/> <a href="http://kopimi.com"><img src="/assets/images/kopimi.png"/></a> <br/> <a href="https://github.com/fareskalaboud/me.blog">Blog Source Code</a>.</p>
