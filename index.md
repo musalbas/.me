@@ -6,7 +6,6 @@ title: Who am I?
 My name is Fares Alaboud. I'm a first-year computer science student at King's College London. I'm active, outgoing, talkative and do my best to be helpful around others. I try to be very involved in my course and around campus. I tend to be found at tech events such as hackathons and talks, lectures or workshops.  
 
 **<h3>Events I'm attending soon:</h3>**
- - <s>StudentHack</s> And it was EPIC. I'll have a blog post up soon!
  - [HackKings](http://hackkings.org), the UK's largest student-run university hackathon
  - [StartupWeekend](http://london.startupweekend.org)
  
