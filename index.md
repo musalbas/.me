@@ -7,7 +7,7 @@ My name is Fares Alaboud. I'm a first-year computer science student at King's Co
 
 **<h3>Events</h3>**
  - February 6-7 2014: <s>StudentHack</s> And it was EPIC! [Read my blog post about it here](http://blog.faresalaboud.me/blog/studenthack).
- - February 22-23 2014: <s>HackKings<s>(http://hackkings.org) I'll have a blog post up about it soon!
+ - February 22-23 2014: <s>HackKings</s>(http://hackkings.org) I'll have a blog post up about it soon!
  - [StartupWeekend](http://london.startupweekend.org)
  
 **<h3>The list of things I enjoy include:</h3>**
