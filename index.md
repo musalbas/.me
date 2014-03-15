@@ -8,7 +8,8 @@ My name is Fares Alaboud. I'm a first-year computer science student at King's Co
 **<h3>Events</h3>**
  - February 6-7 2014: <s>StudentHack</s> And it was EPIC! [Read my blog post about it here](http://blog.faresalaboud.me/blog/studenthack).
  - February 22-23 2014: <s>HackKings</s> That's how we run hackathons. [Read my post on KCL Tech's blog here](http://blog.kcltech.com/2014/03/hackkings-we-got-it-right-first-time.html)!
- - March 8 2014: <s>The First Year hackChallenge</s> I ran my first hackathon for the first years. [Read about it here: ](http://blog.faresalaboud.me/blog/hackChallenge)
+ - March 8 2014: <s>The First Year hackChallenge</s> I ran my first hackathon for the first year in my course! [Read about it here: ](http://blog.faresalaboud.me/blog/hackChallenge).
+ - March 17 2014: [**The Tech Talk**](https://www.facebook.com/events/429304987173203/) I'm giving a talk about how the boom in the tech industry is changing the world, and exactly how you can get involved, no matter what your background is.
  - [StartupWeekend](http://london.startupweekend.org)
  
 **<h3>The list of things I enjoy include:</h3>**
@@ -32,6 +33,6 @@ I'm currently refreshing my memory on HTML, and I'm learning JavaScript & Python
 I've attended StartupWeekend, and [you can see a video of me at the event](http://www.youtube.com/watch?v=HdVVdknnxcA). I am the first person and last person who talks in the video. I've also got three more on my list:, [HackKings](http://hackkings.org) and another [StartupWeekend](http://london.startupweekend.org) event in April.
 <br/><br/>
 **Traveling** <br/>
-One of the things I enjoy the most: [traveling around the world](http://wolpy.com/faresalaboud/map) making friends and visiting new places.
+One of the things I enjoy the most: [traveling around the world](wolpy.com/faresalaboud/map) making friends and visiting new places.
 <br/><br/>
 Wanna get in touch? Drop me a message [via email](mailto:hi@faresalaboud.me) or contact me using one of the links on the left!
