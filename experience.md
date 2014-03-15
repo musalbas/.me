@@ -67,10 +67,10 @@ Responsibilities:
 
 Basic skills in:
  - CSS
- - Java
  - iOS Development
 
 Experienced in:
+ - Mobile Web Development
  - Visual Basic.NET for web development
  - Microsoft Office 2007+ (incl. Publisher & Access)
  - Adobe Photoshop for Design
@@ -84,7 +84,7 @@ Awesome at:
  - Problem-solving
  - Web Design & Development
 
-Currently learning (will be completed by March 2014):
+Currently learning (will be completed by June 2014):
  - iOS Development
  - CSS
  - PHP
