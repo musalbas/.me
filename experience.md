@@ -76,18 +76,19 @@ Experienced in:
  - Adobe Photoshop for Design
  - Software Project Management
  - HTML for front-end design
+ - JavaScript
 
 Awesome at:
+ - Java for Desktop Applications
  - SQL for data-storage and manipulation
  - Problem-solving
+ - Web Design & Development
 
 Currently learning (will be completed by March 2014):
- - Java
  - iOS Development
  - CSS
  - PHP
  - Ruby (+ on Rails)
- - JavaScript
  - jQuery
 
   
@@ -123,20 +124,22 @@ Currently learning (will be completed by March 2014):
   
   
   
-## Extra-Curricular Experience  
+## Extra-Curricular Experience      
     
-First Year Representative of [Kings College London Computing Society](http://kclcs.com)  
+Co-founder of [HackCampus](http://hackcampus.io)
+
+Organiser of the KCL Tech [First Year hackChallenge](https://www.facebook.com/events/236964089821097/)
+You can read my blog post about it here! [http://]
+
+First Year Representative of the [Kings College London Computing Society](http://kclcs.com)  
 Kings College London, January 2014 to present   
   
-First Year Officer of [Kings College London Tech Society](http://kcltech.com/)  
+Committee Member of the [Kings College London Tech Society](http://kcltech.com/)  
 Kings College London, November 2013 to present  
   
 Member of the [Student & Staff Liaison Committee (SSLC) at the School of Natural & Mathematical Sciences](https://internal.kcl.ac.uk/nms/depts/informatics/stu/ug/BSc-SSLC.aspx)  
 Kings College London, November 2013 to present  
-  
-Second Place Winnder @ [StartupWeekend Mobile Edition, April 2013](http://www.youtube.com/watch?v=HdVVdknnxcA)  
-[StartupWeekend, Google Campus, London](http://london.startupweekend.org)  
-   
+ 
 Co-founder of the AISJ (American International School of Jeddah) Community Service Society  
 The American International School of Jeddah, September 2011 to June 2012  
   
@@ -146,6 +149,18 @@ Jeddah, Saudi Arabia, March 2008 to present
 
 ## Awards  
   
+ Second Place Winnder @ [StartupWeekend Mobile Edition, April 2013](http://www.youtube.com/watch?v=HdVVdknnxcA)  
+ [StartupWeekend, Google Campus, London](http://london.startupweekend.org)
+  
+ Best Fresher Hack @ [StudentHack, February 2014](http://studenthack.com)
+ Our project: [MusicalPackets](http://github.com/fareskalaboud/musicalpackets)
+
+ Best MongoDB Hack @ [StudentHack, February 2014](http://studenthack.com)
+ Our project: [MusicalPackets](http://github.com/fareskalaboud/musicalpackets)
+ 
+ Best Use of SendGrid API @ [HackKing's, February 2014](http://hackkings.org)
+ Our project: [Quitt](http://hackkings2014s.challengepost.com/submissions/21152-quitt)
+ 
  **Computer Science Award, June 2012**  
  Awarded by: The Computing Department @ The American International School of Jeddah  
  This is a departmental award that is given every year to the best student who studies a subject that is managed by that department. I was given the Computer Science award because I was an intern (i.e. helping the teacher in the classroom) in the Beginner Computer Science class and I was also a student in the Advanced Computer Science class.  
