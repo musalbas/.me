@@ -8,7 +8,7 @@ My name is Fares Alaboud. I'm a first-year computer science student at King's Co
 **<h3>Events</h3>**
  - February 6-7 2014: <s>StudentHack</s> And it was EPIC! [Read my blog post about it here](http://blog.faresalaboud.me/blog/studenthack).
  - February 22-23 2014: <s>HackKings</s> That's how we run hackathons. [Read my post on KCL Tech's blog here](http://blog.kcltech.com/2014/03/hackkings-we-got-it-right-first-time.html)!
- - March 8 2014: <s>The First Year hackChallenge</s> I ran my first hackathon for the first years. Read about it here: (http://blog.faresalaboud.me/blog/hackChallenge)
+ - March 8 2014: <s>The First Year hackChallenge</s> I ran my first hackathon for the first years. [Read about it here: ](http://blog.faresalaboud.me/blog/hackChallenge)
  - [StartupWeekend](http://london.startupweekend.org)
  
 **<h3>The list of things I enjoy include:</h3>**
