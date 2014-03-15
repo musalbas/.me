@@ -129,7 +129,7 @@ Currently learning (will be completed by March 2014):
 Co-founder of [HackCampus](http://hackcampus.io)
 
 Organiser of the KCL Tech [First Year hackChallenge](https://www.facebook.com/events/236964089821097/)
-You can read my blog post about it here! [http://]
+[You can read my blog post about it here!](http://blog.faresalaboud.me/blog/hackChallenge)
 
 First Year Representative of the [Kings College London Computing Society](http://kclcs.com)  
 Kings College London, January 2014 to present   
