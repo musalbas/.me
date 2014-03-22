@@ -9,8 +9,7 @@ My name is Fares Alaboud. I'm a first-year computer science student at King's Co
  - February 6-7 2014: <s>StudentHack</s> And it was EPIC! [Read my blog post about it here](http://blog.faresalaboud.me/blog/studenthack).
  - February 22-23 2014: <s>HackKings</s> That's how we run hackathons. [Read my post on KCL Tech's blog here](http://blog.kcltech.com/2014/03/hackkings-we-got-it-right-first-time.html)!
  - March 8 2014: <s>The First Year hackChallenge</s> I ran my first hackathon for the first year in my course! [Read about it here: ](http://blog.faresalaboud.me/blog/hackChallenge).
- - March 17 2014: [**The Tech Talk**](https://www.facebook.com/events/429304987173203/) I'm giving a talk about how the boom in the tech industry is changing the world, and exactly how you can get involved, no matter what your background is.
- - [StartupWeekend](http://london.startupweekend.org)
+ - March 17 2014: <s>The Tech Talk</s> I gave a talk on how startups, hackathons and programming are changing the world, and how to be involved. To find out how to get started with programming, [see my blog post here](http://blog.faresalaboud.me/blog/programming).
  
 **<h3>The list of things I enjoy include:</h3>**
 
