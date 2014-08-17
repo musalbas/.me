@@ -10,7 +10,7 @@ markdown: maruku
 # Theme customization - please change from the defaults!
 theme:
   # Color for top bar, links, etc
-  highlight_color: '#0ca3ff'
+  highlight_color: '#49c583'
 
   # Profile links on the left sidebar, leave blank to ignore
   social:
