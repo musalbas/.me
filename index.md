@@ -11,7 +11,7 @@ I'm Vice President of [KCL Tech](http://kcltech.com), co-founder of [HackKing's]
 
 <br/>
 
-I [travel around the world](wolpy.com/faresalaboud/map), [enjoy learning new programming langues](http://www.codecademy.com/faresalaboud), and I absolutely love food.
+I [travel around the world](http://wolpy.com/faresalaboud/map), [enjoy learning new programming langues](http://www.codecademy.com/faresalaboud), and I absolutely love food.
 
 <br/>
 
